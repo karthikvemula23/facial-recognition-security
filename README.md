@@ -158,10 +158,4 @@ Potential improvements include:
 * Web-based monitoring dashboard
 * Improved performance for larger databases
 
-<p align="center">
-  If you find this project useful, consider giving the repository a ⭐
-</p>
 
-<p align="center">
-  Developed by <a href="https://github.com/karthikvemula23">Karthik Vemula</a>
-</p>
