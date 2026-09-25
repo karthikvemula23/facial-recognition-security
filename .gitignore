@@ -1,0 +1,15 @@
+# PyCharm / IntelliJ
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Generated files
+result.jpg
+
+# Virtual environments
+venv/
+.venv/
+env/
